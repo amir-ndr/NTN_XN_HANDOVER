@@ -1,0 +1,9 @@
+experiment,policy,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,max_elevation,1,200.0,STARLINK-3342,STARLINK-3970,27.521,34.54,3.3693,2.9726,candidate higher by hysteresis margin,2,1,7.691,6.997,14.688,627,624,3,2,26.04,8.245,8.337,1,,2026-08-03 07:36:48
+e4_orchestrator,max_elevation,2,355.0,STARLINK-3970,STARLINK-3204,53.374,65.304,2.2108,1.9816,candidate higher by hysteresis margin,1,2,4.763,4.1,8.863,978,975,3,2,17.465,5.0621,5.067,1,,2026-08-03 07:37:03
+e4_orchestrator,max_elevation,3,440.0,STARLINK-3204,STARLINK-3127,46.243,58.678,2.4262,2.0909,candidate higher by hysteresis margin,2,1,4.903,4.553,9.456,936,933,3,2,19.078,5.2969,5.3,1,,2026-08-03 07:37:12
+e4_orchestrator,max_elevation,4,540.0,STARLINK-3127,STARLINK-3897,50.288,59.353,2.2976,2.0786,candidate higher by hysteresis margin,1,2,5.126,3.729,8.855,944,941,3,2,16.784,5.249,5.25,1,,2026-08-03 07:37:22
+e4_orchestrator,max_elevation,5,615.0,STARLINK-3897,STARLINK-4396,44.309,53.099,2.4932,2.2156,candidate higher by hysteresis margin,2,1,5.356,4.079,9.435,880,877,3,2,20.054,5.5759,5.637,1,,2026-08-03 07:37:29
+e4_orchestrator,max_elevation,6,680.0,STARLINK-4396,STARLINK-3207,51.93,65.181,2.2484,1.9834,candidate higher by hysteresis margin,1,2,4.798,4.214,9.012,979,977,2,1,15.403,5.054,5.136,1,,2026-08-03 07:37:36
+e4_orchestrator,max_elevation,7,770.0,STARLINK-3207,STARLINK-4017,48.475,58.676,2.3517,2.095,candidate higher by hysteresis margin,2,1,5.034,4.05,9.084,942,939,3,2,29.509,5.2991,5.392,1,,2026-08-03 07:37:45
+e4_orchestrator,max_elevation,8,845.0,STARLINK-4017,STARLINK-3158,41.609,53.415,2.6073,2.2098,candidate higher by hysteresis margin,1,2,4.982,4.119,9.101,888,885,3,2,46.112,5.599,5.743,1,,2026-08-03 07:37:52

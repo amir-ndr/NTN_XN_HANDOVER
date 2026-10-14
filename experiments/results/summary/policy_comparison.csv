@@ -1,0 +1,4 @@
+policy,handovers,handovers_per_min,late_handovers,outage_s,mean_serving_elev_deg,min_serving_elev_deg,mean_serving_one_way_ms,max_serving_one_way_ms
+max_elevation,8,0.53,0,0.0,52.67,10.25,2.578,5.804
+elevation_threshold,2,0.13,1,0.0,25.88,10.15,3.901,5.822
+max_service_time,2,0.13,0,0.0,23.96,10.25,3.986,5.804

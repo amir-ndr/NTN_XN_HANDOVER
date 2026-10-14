@@ -1,0 +1,2 @@
+experiment,policy,window_offset_s,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,max_service_time,1800.0,1,475.0,STARLINK-3199,STARLINK-3229,10.074,10.752,5.9732,5.8529,serving about to set,1,2,13.213,7.589,20.802,599,595,4,2,17.512,8.7559,17.074,1,,2026-08-04 00:50:59

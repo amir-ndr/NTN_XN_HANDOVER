@@ -1,0 +1,3 @@
+experiment,policy,window_offset_s,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,elevation_threshold,900.0,1,445.0,STARLINK-4133,STARLINK-3933,nan,13.641,nan,5.2674,serving lost (late handover),1,2,12.328,8.01,20.338,642,637,5,3,23.94,7.9801,15.665,1,,2026-08-04 00:49:23
+e4_orchestrator,elevation_threshold,900.0,2,880.0,STARLINK-3933,STARLINK-3880,nan,12.284,nan,5.5169,serving lost (late handover),2,1,13.256,7.871,21.127,613,609,4,2,16.6,8.2998,16.677,1,,2026-08-04 00:50:07

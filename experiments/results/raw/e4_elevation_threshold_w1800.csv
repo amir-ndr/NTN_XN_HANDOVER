@@ -1,0 +1,2 @@
+experiment,policy,window_offset_s,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,elevation_threshold,1800.0,1,480.0,STARLINK-3199,STARLINK-3229,nan,11.258,nan,5.744,serving lost (late handover),1,2,12.989,4.478,17.467,686,682,4,2,16.044,8.0221,15.091,1,,2026-08-04 00:54:03

@@ -1,0 +1,2 @@
+experiment,policy,window_offset_s,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,elevation_threshold,2700.0,1,450.0,STARLINK-3972,STARLINK-4095,10.834,17.687,5.815,4.6034,serving below elevation threshold,2,1,10.723,8.589,19.312,745,741,4,2,12.696,6.3479,12.507,1,,2026-08-04 00:58:25

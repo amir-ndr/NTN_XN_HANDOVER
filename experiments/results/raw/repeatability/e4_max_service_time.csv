@@ -1,0 +1,3 @@
+experiment,policy,ho_idx,sim_time_s,from_sat,to_sat,from_elev_deg,to_elev_deg,from_one_way_ms,to_one_way_ms,reason,source_gnb,target_gnb,ue_arrival_ms,psw_ms,total_ms,ping_sent,ping_recv,ping_lost,gap_packets,gap_ms,ping_interval_actual_ms,ping_rtt_avg_ms,ok,error,wall_time
+e4_orchestrator,max_service_time,1,405.0,STARLINK-3342,STARLINK-3226,10.572,13.651,5.7288,5.2716,serving about to set,2,1,13.781,13.657,27.438,681,676,5,3,26.155,7.637,14.125,1,,2026-08-03 07:34:42
+e4_orchestrator,max_service_time,2,835.0,STARLINK-3226,STARLINK-3203,10.724,14.761,5.8444,5.0701,serving about to set,1,2,12.323,8.667,20.99,682,678,4,2,17.519,7.761,13.301,1,,2026-08-03 07:35:25
